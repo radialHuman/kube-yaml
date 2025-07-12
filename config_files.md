@@ -30,8 +30,10 @@ kubectl get pods
 
 # to check service
 kubectl get svc
+kubectl get service # will have a kube default service
 ```
+- these things can be automated suing azure devops or jenkins or cicd tools instead of writting the command after every change
 
 ---
 
-## Source : []()
+## Source : [Kubernetes Deployment Tutorial - yaml explained + Demo](https://youtu.be/y_vy9NVeCzo)
