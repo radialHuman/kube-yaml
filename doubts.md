@@ -1,0 +1,5 @@
+- what is the namespace file for?
+- whats the torelance for?
+- how to configure ingress and egress?
+- where do i get the templat from and how to know which section has which subsections?
+- node port, what does it do?
